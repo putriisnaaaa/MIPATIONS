@@ -1,0 +1,2 @@
+rootProject.name = "Mipations"
+include ':app'

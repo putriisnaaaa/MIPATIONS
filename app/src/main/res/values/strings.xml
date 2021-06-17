@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mipations</string>
+    <string name="detail_visi">Menjadi pusat pengkajian dan pengembangan matematika dan sains yang berorientasi pada potensi alam Aceh, yang unggul di Indonesia dan dikenal di dunia pada tahun 2025</string>
+    <string name="detail_misi">• Menghasilkan lulusan yang unggul, mandiri, tekun, kreatif, inovatif, berjiwa wirausaha dan memiliki integritas dalam mengembangkan dan menerapkan ilmu pengetahuan dan teknologi yang berwawasan lingkungan, serta mampu menjadi warga dunia yang bertanggung jawab.\n• Meningkatkan perluasan dan pemerataan akses, mutu pembelajaran, mutu penelitian, serta mutu pelayanan pendidikan matematika dan sains di dalam dan luar lingkungan Unsyiah, didukung oleh sistem tata kelola kelembagaan yang akuntabel dan transparan. \n• Menjalin kerjasama nasional dan internasional dalam pengkajian dan penerapan matematika dan sains berorientasi pada potensi alam Aceh untuk kesejahteraan ummat.</string>
+    <string name="detail_sejarah">Cikal bakal Fakultas Matematika dan Ilmu Pengetahuan Alam (Fakultas MIPA) Universitas Syiah Kuala (Unsyiah) dimulai pada tahun 1989 dengan dikeluarkannya Surat Keputusan Rektor Unsyiah No. 137, 141 dan 142 tahun 1989 tentang pendirian Koordinatorat MIPA. Dikeluarkannya SK Rektor ini didasarkan atas Surat Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan RI No. 9, 10, 11 dan 12 /Dikti/Kep/1989 tanggal 17 Februari 1989, tentang pendirian Jurusan Matematika, Fisika, Kimia dan Biologi. Melalui Surat Keputusan Menteri Pendidikan dan Kebudayaan No. 0383/O/1993 tanggal 22 Oktober 1993, maka secara resmi Fakultas MIPA Unsyiah berdiri. Dalam usia yang relatif muda untuk ukuran sebuah institusi pendidikan, Fakultas MIPA dengan segala keterbatasan potensi dan sumberdayanya yang dimiliki telah berkiprah untuk membantu penguasaan, penguatan, dan pengembangan ilmu-ilmu dasar yang menjadi basis bagi pengembangan ilmu pengetahuan dan teknologi demi kesejahteraan hidup masyarakat, khususnya di Provinsi Aceh.</string>
+    <string name="title_activity_jurusan">JurusanActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
